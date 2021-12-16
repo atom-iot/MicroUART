@@ -85,7 +85,3 @@ void MU_serialEvent() {
 ## Версии
 - v1.0
 
-<a id="feedback"></a>
-## Баги и обратная связь
-При нахождении багов создавайте **Issue**, а лучше сразу пишите на почту [alex@alexgyver.ru](mailto:alex@alexgyver.ru)  
-Библиотека открыта для доработки и ваших **Pull Request**'ов!
